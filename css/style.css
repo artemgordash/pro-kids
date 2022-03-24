@@ -919,7 +919,7 @@ body {
     padding: 0;
     color: #5C5387;
     overflow: hidden;
-    height: 140vw;
+    height: 150vw;
   }
   .table__title {
     display: none;
@@ -991,11 +991,11 @@ body {
     -o-transition: .3s;
     -moz-transition: .3s;
     transition: .3s;
-    -webkit-transform: translateY(-152vw);
-       -moz-transform: translateY(-152vw);
-        -ms-transform: translateY(-152vw);
-         -o-transform: translateY(-152vw);
-            transform: translateY(-152vw);
+    -webkit-transform: translateY(-153vw);
+       -moz-transform: translateY(-153vw);
+        -ms-transform: translateY(-153vw);
+         -o-transform: translateY(-153vw);
+            transform: translateY(-153vw);
   }
   .services {
     margin-top: 15vw;
