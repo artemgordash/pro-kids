@@ -871,7 +871,7 @@ body {
             align-items: flex-start;
   }
   .intro__text {
-    margin-top: 15vw;
+    margin-top: 10vw;
   }
   .text__title {
     font-size: 10vw;
@@ -1116,7 +1116,7 @@ body {
     font-size: 7.5vw;
   }
   .employees__slider {
-    margin-top: 12vw;
+    margin-top: 20vw;
   }
   .slider__prev-btn img {
     width: 10vw;
