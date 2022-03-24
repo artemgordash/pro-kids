@@ -1089,11 +1089,12 @@ body {
     transition: .1s;
   }
   .services::after {
-    display: none;
+    top: 138vw;
+    right: 10vw;
+    z-index: -1;
   }
   .services::before {
-    left: 45vw;
-    top: 135vw;
+    display: none;
   }
   .item-opened > .accordion__item > .item__expand > img {
     -webkit-transition: .1s;
@@ -1159,6 +1160,7 @@ body {
     width: 10vw;
   }
   .contacts {
+    position: relative;
     margin-top: 15vw;
     padding-top: 15vw;
   }

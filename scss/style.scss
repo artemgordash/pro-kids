@@ -929,12 +929,13 @@ body {
     }
 
     .services::after {
-        display: none;
+        top: 138vw;
+        right: 10vw;
+        z-index: -1;
     }
 
     .services::before {
-        left: 45vw;
-        top: 135vw;
+        display: none;
     }
     
     .item-opened > .accordion__item > .item__expand > img{
@@ -1018,9 +1019,11 @@ body {
 
 
     .contacts {
+        position: relative;
         margin-top: 15vw;
         padding-top: 15vw;
     }
+
     .contacts__title {
         font-size: 7.5vw;
     }
